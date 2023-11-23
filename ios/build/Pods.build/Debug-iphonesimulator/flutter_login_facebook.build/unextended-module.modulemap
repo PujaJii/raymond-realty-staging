@@ -1,0 +1,10 @@
+framework module flutter_login_facebook {
+  umbrella header "flutter_login_facebook-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module flutter_login_facebook.__Swift {
+  exclude header "flutter_login_facebook-Swift.h"
+}

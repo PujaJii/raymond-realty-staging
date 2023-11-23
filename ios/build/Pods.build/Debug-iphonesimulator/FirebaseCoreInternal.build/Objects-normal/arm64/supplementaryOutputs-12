@@ -1,0 +1,15 @@
+"/Users/awi/Projects/raymond_realty/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift":
+  diagnostics: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/StorageFactory.dia"
+  swift-dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/StorageFactory.swiftdeps"
+  dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/StorageFactory.d"
+  object: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/StorageFactory.o"
+"/Users/awi/Projects/raymond_realty/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift":
+  swift-dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/WeakContainer.swiftdeps"
+  diagnostics: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/WeakContainer.dia"
+  object: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/WeakContainer.o"
+  dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/WeakContainer.d"
+"/Users/awi/Projects/raymond_realty/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift":
+  swift-dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/Storage.swiftdeps"
+  object: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/Storage.o"
+  dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/Storage.d"
+  diagnostics: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/Storage.dia"

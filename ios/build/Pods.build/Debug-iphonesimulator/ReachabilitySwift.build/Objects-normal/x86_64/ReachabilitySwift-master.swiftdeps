@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "9509da2d57403f9d0b9036ea365e48cb0df468fe7b01261a5ca16aee57d38d0c"
+build_start_time: [1700423829, 866902000]
+build_end_time: [1700423890, 200033000]
+inputs:
+  "/Users/awi/Projects/raymond_realty/ios/Pods/ReachabilitySwift/Sources/Reachability.swift": [1700422738, 210216170]

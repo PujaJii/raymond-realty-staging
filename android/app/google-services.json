@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "972289075700",
+    "project_id": "raymond-realty-2f3d1",
+    "storage_bucket": "raymond-realty-2f3d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972289075700:android:38a182627828f855f531a1",
+        "android_client_info": {
+          "package_name": "com.live.raymondrealty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972289075700-17qb471pce5urjolpi7635r2br3q8nrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.live.raymondrealty",
+            "certificate_hash": "e0e58303e4575f935e739de3028d727fddd2b34b"
+          }
+        },
+        {
+          "client_id": "972289075700-en4bqpuk7on2e0t59lvr2p5u1l4gs91l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.live.raymondrealty",
+            "certificate_hash": "934b3a9812a32424b29b596777e681bfe7d582e0"
+          }
+        },
+        {
+          "client_id": "972289075700-hjrq3hv5thgc2t0cnolgnuvfpncu6icq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.live.raymondrealty",
+            "certificate_hash": "94bc0830bc1d747aa05df97b71ab108dcf93836c"
+          }
+        },
+        {
+          "client_id": "972289075700-ta43mf95oe3qk44p5p1534nbtk6u0n7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.live.raymondrealty",
+            "certificate_hash": "8fa05a7a9b1b101ebd0a045f66b5a306d4a6adf7"
+          }
+        },
+        {
+          "client_id": "972289075700-7hakv2766dv42h4n2ojt5muh3enqch5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKEOr_MlRYKBE3Yo7a5GoRc7cnvEXwKiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972289075700-7hakv2766dv42h4n2ojt5muh3enqch5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

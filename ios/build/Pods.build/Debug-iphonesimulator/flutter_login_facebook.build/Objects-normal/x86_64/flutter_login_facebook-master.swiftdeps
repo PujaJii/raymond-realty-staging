@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "c67c31fda2def4f48538b17c5bcffbfdb5640ef3f4ff3acfefe1d5f15a74f173"
+build_start_time: [1700423916, 161962000]
+build_end_time: [1700423929, 651732000]
+inputs:
+  "/Users/awi/.pub-cache/hosted/pub.dev/flutter_login_facebook-1.9.0/ios/Classes/SwiftFlutterLoginFacebookPlugin.swift": !private [1700115245, 925491699]

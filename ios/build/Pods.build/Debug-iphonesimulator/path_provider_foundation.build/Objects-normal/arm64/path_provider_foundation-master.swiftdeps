@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "79cbce7f4bc95cc4227919eba06483e952f88b26b4419649996a82264274e1fa"
+build_start_time: [1700423828, 385637000]
+build_end_time: [1700423890, 170347000]
+inputs:
+  "/Users/awi/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.1/darwin/Classes/PathProviderPlugin.swift": [1695393184, 145269796]
+  "/Users/awi/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.1/darwin/Classes/messages.g.swift": [1695393184, 142769115]

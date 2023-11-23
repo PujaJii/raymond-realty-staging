@@ -1,0 +1,15 @@
+"/Users/awi/Projects/raymond_realty/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift":
+  swift-dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatController.swiftdeps"
+  object: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatController.o"
+  dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatController.d"
+  diagnostics: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatController.dia"
+"/Users/awi/Projects/raymond_realty/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift":
+  diagnostics: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsBundle.dia"
+  swift-dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsBundle.swiftdeps"
+  dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsBundle.d"
+  object: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsBundle.o"
+"/Users/awi/Projects/raymond_realty/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift":
+  dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatLoggingTestUtils.d"
+  swift-dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatLoggingTestUtils.swiftdeps"
+  object: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatLoggingTestUtils.o"
+  diagnostics: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatLoggingTestUtils.dia"

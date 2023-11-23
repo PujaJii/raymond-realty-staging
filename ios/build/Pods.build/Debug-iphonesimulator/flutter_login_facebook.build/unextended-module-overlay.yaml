@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/awi/Projects/raymond_realty/ios/build/Debug-iphonesimulator/flutter_login_facebook/flutter_login_facebook.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/flutter_login_facebook.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/awi/Projects/raymond_realty/ios/build/Debug-iphonesimulator/flutter_login_facebook/flutter_login_facebook.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "flutter_login_facebook-Swift.h",
+      'external-contents': "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/flutter_login_facebook.build/unextended-interface-header.h",
+    }]
+    }]
+}

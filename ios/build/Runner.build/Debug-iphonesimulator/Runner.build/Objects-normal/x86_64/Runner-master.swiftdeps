@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "6760d1930bf2f3c2f6652efaebec4bbe02ca776235f22884199504556f284879"
+build_start_time: [1700424187, 28927000]
+build_end_time: [1700424188, 696039000]
+inputs:
+  "/Users/awi/Projects/raymond_realty/ios/Runner/AppDelegate.swift": !private [1700224706, 516914771]

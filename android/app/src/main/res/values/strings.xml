@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Raymond Realty SYNC</string>
+    <string name="facebook_app_id">1409136262977524</string>
+    <string name="fb_login_protocol_scheme">fb1409136262977524</string>
+    <string name="facebook_client_token">4dfa7e20dfc4aeec9a587ec4154f1c8f</string>
+</resources>

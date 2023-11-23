@@ -1,0 +1,15 @@
+"/Users/awi/Projects/raymond_realty/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift":
+  dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsPayload.d"
+  swift-dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsPayload.swiftdeps"
+  object: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsPayload.o"
+  diagnostics: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatsPayload.dia"
+"/Users/awi/Projects/raymond_realty/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift":
+  swift-dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatStorage.swiftdeps"
+  object: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatStorage.o"
+  dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatStorage.d"
+  diagnostics: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/HeartbeatStorage.dia"
+"/Users/awi/Projects/raymond_realty/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift":
+  diagnostics: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/RingBuffer.dia"
+  swift-dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/RingBuffer.swiftdeps"
+  dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/RingBuffer.d"
+  object: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/arm64/RingBuffer.o"

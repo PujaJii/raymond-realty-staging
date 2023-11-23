@@ -1,0 +1,15 @@
+"/Users/awi/Projects/raymond_realty/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift":
+  diagnostics: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/x86_64/StorageFactory.dia"
+  object: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/x86_64/StorageFactory.o"
+  dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/x86_64/StorageFactory.d"
+  swift-dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/x86_64/StorageFactory.swiftdeps"
+"/Users/awi/Projects/raymond_realty/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift":
+  dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/x86_64/Storage.d"
+  diagnostics: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/x86_64/Storage.dia"
+  object: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/x86_64/Storage.o"
+  swift-dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/x86_64/Storage.swiftdeps"
+"/Users/awi/Projects/raymond_realty/ios/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift":
+  object: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/x86_64/WeakContainer.o"
+  diagnostics: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/x86_64/WeakContainer.dia"
+  swift-dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/x86_64/WeakContainer.swiftdeps"
+  dependencies: "/Users/awi/Projects/raymond_realty/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCoreInternal.build/Objects-normal/x86_64/WeakContainer.d"
